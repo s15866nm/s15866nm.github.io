@@ -1,0 +1,37 @@
+
+
+body{
+ width: 100%;
+ text-align: center;
+background-color: #ccffff;
+
+}
+a{
+  font-size: 20px;
+  color: #ff4c4c;
+  background: #f9f9f9;
+  border: 1px solid #ff4c4c;
+  padding: 10px;
+  text-decoration: none;
+  list-style: none;
+  border-radius: 3px;
+  transition: 2s;
+}
+a:hover{
+  background: #ff4c4c;
+  color:#f9f9f9;
+
+
+}
+
+#menu {
+  text-align: right;
+  padding-right: 90px;
+  color: #ff4c4c;
+
+
+
+
+
+
+}
